@@ -1,0 +1,3 @@
+Nachdem wir das Addiermodell von Konrad Zuse theoretisch beschrieben haben, geht es jetzt an die phyische Realisierung in 3D.
+
+Deshalb zeigen wir heute, wie das AND-Gatter, welches wir in einem CAD Programm entworfen haben, mit Hilfe eines 3D-Druckers "materialisiert" wird.

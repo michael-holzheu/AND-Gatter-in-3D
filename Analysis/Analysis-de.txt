@@ -1,0 +1,184 @@
+Keywords
+--------
+ATTRIBUTE: Attribute to external work
+BUG:       Bug or Problem
+CLAIM:     Claim/Statement
+COMPANY:   Company
+COMPARE:   Comparison to other device
+DIALECT:   Spoken dialect
+DISCOVER:  We found out something new! 
+FACT:      Fact. Something that is objective right
+HOWTO:     Tutorial, Explanation how to achieve something
+IDEA:      Proposal for improving things
+LINK:      Link/URL to external information
+MEASURE:   Measurement, e.g. time.
+MUSIC:     Music
+PART:      Part of the package
+PICTURE:   Picture
+QUESTION:  Question
+SAYING:    Saying
+SPECIAL:   Special feature
+SUMMARY:   Summary
+TRYOUT:    Try something out (experiment)
+WORD:      Special word
+THESIS:    Thesis
+TOC:       Table of Contents
+
+Devices
+-------
+- Handkamera:  S22U:          Samsung Galaxy S22 Ultra
+- Frontkamera: OP7:           One Plus 7
+- Druckerkamera
+- OBS screen recorder
+
+Software
+--------
+- Screen recording: OBS (Open Breadcast Software) screen recorder
+- Video editing: Adope Premiere Pro
+
+Links
+-----
+- 3D-Drucker Glossar: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki
+
+Speaker/Actors
+--------------
+MICHAEL: Presenter
+
+Log
+---
+00:03 TOC1	Vergleich Theorie und Realität
+00:03 TOC2	Theoretischer Aufbaus des AND-Gatters
+00:05 WORD	2-Bit Addierer
+		EN: 2-Bit adder
+		LINK: https://de.wikipedia.org/wiki/Addierwerk
+00:16 WORD	AND-Gatter
+		EN: AND-Gate
+		Link: https://de.wikipedia.org/wiki/Und-Gatter
+00:19 DIALECT	Reintun
+		DE: Eingeben
+00:26 WORD	Kopplungsblech
+		EN: Coupling sheet
+00:31 WORD	Taktblech
+		EN: Clock sheet
+00:36 WORD	Ausgabeblech
+		EN: Output sheet
+00:46 WORD	Wahrheitstabelle
+		LINK: https://de.wikipedia.org/wiki/Wahrheitstabelle
+		EN: Truth table
+00:59 TOC2	Ausgedrucktes AND-Gatter
+01:15 TOC2	Vergleich: Ausgedrucktes Gatter vs. theoretisches Modell
+01:44 WORD	Impulsblech
+		EN: Impulse sheet
+01:47 WORD	Ausgabeblech
+		EN: Output sheet
+01:52 TOC2	Verifikation: Modell verhält sich entsprechend der Wahrheitstabelle
+02:21 TOC1	CAD Programme
+02:20 TOC2	3D-Modell in Solid Edge CAD-Software
+02:20 COMPANY	Siemens
+02:20 CLAIM	Solid Edge ist von der Firma Siemens
+02:20 WORD	Solid Edge
+		LINK: https://de.wikipedia.org/wiki/Solid_Edge
+02:26 TOC2	Parametrisierung der Größen
+02:26 SPECIAL	Solide Edge bietet Parametrierung von Größen, wie z.B. Schraubendurchmesser
+03:00 WORD	Skalierung
+		LINK: https://de.wikipedia.org/wiki/Skalierung_(Computergrafik)
+03:08 WORD	H0 (Spurweite)
+		EN: H0 scale
+		LINK: https://de.wikipedia.org/wiki/Nenngr%C3%B6%C3%9Fe_H0
+03:08 WORD	N (Spurweite)
+		EN: N scale
+		LINK: https://de.wikipedia.org/wiki/Nenngr%C3%B6%C3%9Fe_N
+03:35 TOC2	Austauschformat 3MF (3D Manufacturing Format) 
+		LINK: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
+03:34 TOC2	Import des Modells in "Ultimaker Cura" Slicer Software
+03:42 WORD	3MF (3D Manufacturing Format)
+		LINK: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
+04:10 CLAIM	Der 3D-Drucker kannn maximal 45 Grad Überhänge drucken
+04:17 BUG	MICHAEL verwendet im Kontext falsches Wort "Brücke" statt "Überhang"
+04:17 WORD	Brücke -> Überhang
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Ueberhang_engl_Overhang
+04:23 TOC2	Zum Ausdrucken muss man die Objekte "geschickt" drehen
+04:33 TOC2	Duplizieren von fehlenden Objekten
+04:49 TOC2	Schichtenansicht zeigt Strukturen für 3D-Drucker
+04:53 TOC2	Ausfüllen von Hohlräumen mit "Infill"
+04:53 BUG	MICHAEL verwendet falsches Wort "Filling" statt "Infill"
+04:53 WORD	Infill: Füllung
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Infill_Fuellung
+		LINK: https://www.rf1000.de/wiki/index.php/Infill
+05:21 CLAIM	Drucken des AND-Gatters dauert 36 Minuten
+05:29 TOC2	Software kann Drucker-Kamera anzeigen
+05:35 TOC1	Überblick über 3D-Drucker
+05:38 SAYING	Marke Eigenbau
+		LINK: https://de.wiktionary.org/wiki/Marke_Eigenbau
+05:38 CLAIM	Der 3D-Drucker wurde selbst gebaut
+05:41 CLAIM	Der Druckkopf wurde zum Teil mit einem anderem 3D-Drucker ausgedruckt
+05:59 TOC2	Druckplatte
+05:59 WORD	Headbed
+		DE: Heizbett
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Heizbett_engl_Heatbed
+		LINK: http://www.profs.ch/flwiki/Heizbett
+06:03		Druckkopf
+		EN: Hotend
+06:10 TOC2	Extruder
+06:10 WORD	Extruder
+		LINK: https://en.wikipedia.org/wiki/3D_printer_extruder
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Extruder_lat_%E2%80%9Eextrudere_hinausstossen
+06:15 TOC2	Vorrichtung zum Erhitzen des Materials
+06:22 TOC2	Motoren zum Bewegen des Druckkopfs in X-,Y- und Z-Richtung
+06:34 TOC1	Druckvorgang
+06:42 TOC2	Höhenmessung der Druckplatte (Auto-Bed-Leveling)
+06:42 WORD	Auto-Bed-Leveling
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Auto-_Bed-Leveling_Automatisches_Ausnivellieren_des_Druckbetts
+		LINK: https://www.simplify3d.com/resources/articles/beginners-guide-to-auto-bed-leveling
+07:18 CLAIM	Es ist besonders wichtig, dass die erste Schicht korrekt aufgetragen wird
+07:25 TOC2	Die erste Schicht wird gedruckt
+08:15 CLAIM	Die erste Schicht wird langsamer gedruckt
+08:22 SAYING	Gas geben
+		EN: To give gas
+		LINK; https://www.dwds.de/wb/Gas%20geben
+08:40 TOC2	Die verschiedenen Bleche werden gezeigt
+09:00 TOC2	Der Käfig (Gehäuse) wird gedruckt
+09:00 WORD	Käfig
+		EN: Cage
+09:16 SAYING	Etwas treibt einen um
+		LINK: https://www.dwds.de/wb/umtreiben
+09:16 TOC2	Das Kopplungsblech wird gedruckt
+09:16 WORD	Logikblech
+		EN: Logic sheet
+09:16 WORD	Kopplungsblech
+		EN: Coupling sheet
+09:40 CLAIM	Der Prototyp des Kopplungsblechs verwendet asymetrische L-Ausfräsungen
+09:40 WORD	Ausfräsung
+		EN: Milling
+10:09 TOC2	Ventilator zum Abkühlen des geschmolzenen Materials
+10:33 TOC2	Filament, Extruder und Hotend
+10:33 WORD	Filament
+		LINK: https://en.wikipedia.org/wiki/3D_printing_filament
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Filament_lat_filamentum_Fadenwerk
+10:48 TOC2	Der Aufbau des Hotends
+10:48 WORD	Hotend
+10:48 ATTRIBUTE PICTURE: Hotend Diagramm
+		LINK: https://threedom.de/3d-drucker-hotend
+11:00 ATTRIBUTE	MUSIC: Relaxing Piano Improvisation by Alexander Nakarada
+		LINK: https://filmmusic.io/song/5978-relaxing-piano-improvisation
+11:00 TOC1	Verlauf des Druckvorgangs bis zum Ende
+11:09 TOC2	Veranschaulichung der Kopplung von Schrittmotor und Druckkopf
+11:09 WORD	Schrittmotor
+		EN: Stepper motor
+		LINK: https://de.wikipedia.org/wiki/Schrittmotor
+11:37 TOC2	Nahaufnahme von der Druckdüse
+11:37 WORD	Düse
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Nozzle_Duese
+		EN: Nozzle
+11:46 TOC2	XY-Schlitten für horizontale Bewegungen
+12:15 TOC2	Zahnriehmen für X-Richtung
+12:22 TOC2	Verzögerung des Kamerabildes auf dem OnePlus 7 Bildschirm
+12:22 CLAIM	Die Verzögerung des OP7 Smartphone Kamerabildes beträgt einige Millisekunden
+13:21 TOC2	Das Infill des Gehäuses wird gedruckt
+13:38 TOC2	Die Brücken werden gedruckt
+13:38 WORD	Brücke
+		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Bridge_Bruecke
+		EN: Bridge
+13:46 CLAIM	Durch das Abkühlen wird das Materials zusammengezogen und strafft dadurch die durchhängede Brücke wieder
+13:54 CLAIM	Parallel gedruckte Brückenteile stützen sich gegenseitig
+14:50 TOC2	LCD Anzeige
