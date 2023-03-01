@@ -117,7 +117,7 @@ Log
 		DE: Heizbett
 		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Heizbett_engl_Heatbed
 		LINK: http://www.profs.ch/flwiki/Heizbett
-06:03		Druckkopf
+06:03 WORD	Druckkopf
 		EN: Hotend
 06:10 TOC2	Extruder
 06:10 WORD	Extruder

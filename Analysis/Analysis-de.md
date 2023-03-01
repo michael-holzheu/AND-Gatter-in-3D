@@ -71,7 +71,7 @@
  ||DE |Heizbett |
  ||LINK |[https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Heizbett_engl_Heatbed](https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Heizbett_engl_Heatbed) |
  ||LINK |[http://www.profs.ch/flwiki/Heizbett](http://www.profs.ch/flwiki/Heizbett) |
-| **[06:03](https://youtu.be/bIub0Jag5nQ?t=6m3s)**| **Druckkopf**| ****|
+| **[06:03](https://youtu.be/bIub0Jag5nQ?t=6m3s)**| **WORD**| **Druckkopf**|
  ||EN |Hotend |
 | **[06:10](https://youtu.be/bIub0Jag5nQ?t=6m10s)**| **TOC2**| **Extruder**|
 | **[06:10](https://youtu.be/bIub0Jag5nQ?t=6m10s)**| **WORD**| **Extruder**|
