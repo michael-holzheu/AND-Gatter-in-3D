@@ -263,7 +263,7 @@ Und da können wir jetzt hier zum Beispiel...
 
 61
 00:03:19,606 --> 00:03:22,372
-insbesondere an dem Parameter Screw
+insbesondere an dem Parameter "Screw"
 
 62
 00:03:23,072 --> 00:03:26,171
