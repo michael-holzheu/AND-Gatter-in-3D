@@ -63,9 +63,14 @@
 | **[05:29](https://youtu.be/bIub0Jag5nQ?t=5m29s)**| **TOC2**| **Software kann Drucker-Kamera anzeigen**|
 | **[05:35](https://youtu.be/bIub0Jag5nQ?t=5m35s)**| **TOC1**| **Überblick über 3D-Drucker**|
 | **[05:38](https://youtu.be/bIub0Jag5nQ?t=5m38s)**| **SAYING**| **Marke Eigenbau**|
+ ||EN |Homegrown |
  ||LINK |[https://de.wiktionary.org/wiki/Marke_Eigenbau](https://de.wiktionary.org/wiki/Marke_Eigenbau) |
 | **[05:38](https://youtu.be/bIub0Jag5nQ?t=5m38s)**| **CLAIM**| **Der 3D-Drucker wurde selbst gebaut**|
 | **[05:41](https://youtu.be/bIub0Jag5nQ?t=5m41s)**| **CLAIM**| **Der Druckkopf wurde zum Teil mit einem anderem 3D-Drucker ausgedruckt**|
+| **[05:53](https://youtu.be/bIub0Jag5nQ?t=5m53s)**| **SAYING**| **In großen Teilen**|
+ ||EN |In large parts |
+| **[05:57](https://youtu.be/bIub0Jag5nQ?t=5m57s)**| **WORD**| **Druckplatte**|
+ ||EN |Printing plate |
 | **[05:59](https://youtu.be/bIub0Jag5nQ?t=5m59s)**| **TOC2**| **Druckplatte**|
 | **[05:59](https://youtu.be/bIub0Jag5nQ?t=5m59s)**| **WORD**| **Headbed**|
  ||DE |Heizbett |
@@ -94,6 +99,7 @@
 | **[09:00](https://youtu.be/bIub0Jag5nQ?t=9m0s)**| **WORD**| **Käfig**|
  ||EN |Cage |
 | **[09:16](https://youtu.be/bIub0Jag5nQ?t=9m16s)**| **SAYING**| **Etwas treibt einen um**|
+ ||EN |The question that is on my mind |
  ||LINK |[https://www.dwds.de/wb/umtreiben](https://www.dwds.de/wb/umtreiben) |
 | **[09:16](https://youtu.be/bIub0Jag5nQ?t=9m16s)**| **TOC2**| **Das Kopplungsblech wird gedruckt**|
 | **[09:16](https://youtu.be/bIub0Jag5nQ?t=9m16s)**| **WORD**| **Logikblech**|

@@ -109,9 +109,14 @@ Log
 05:29 TOC2	Software kann Drucker-Kamera anzeigen
 05:35 TOC1	Überblick über 3D-Drucker
 05:38 SAYING	Marke Eigenbau
+		EN: Homegrown
 		LINK: https://de.wiktionary.org/wiki/Marke_Eigenbau
 05:38 CLAIM	Der 3D-Drucker wurde selbst gebaut
 05:41 CLAIM	Der Druckkopf wurde zum Teil mit einem anderem 3D-Drucker ausgedruckt
+05:53 SAYING	In großen Teilen
+		EN: In large parts
+05:57 WORD	Druckplatte
+		EN: Printing plate
 05:59 TOC2	Druckplatte
 05:59 WORD	Headbed
 		DE: Heizbett
@@ -141,6 +146,7 @@ Log
 09:00 WORD	Käfig
 		EN: Cage
 09:16 SAYING	Etwas treibt einen um
+		EN: The question that is on my mind
 		LINK: https://www.dwds.de/wb/umtreiben
 09:16 TOC2	Das Kopplungsblech wird gedruckt
 09:16 WORD	Logikblech
