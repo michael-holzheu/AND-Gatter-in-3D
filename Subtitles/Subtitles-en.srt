@@ -1,0 +1,712 @@
+1
+00:00:01,066 --> 00:00:01,699
+The third!
+
+2
+00:00:01,699 --> 00:00:02,332
+(Christoph claps)
+
+3
+00:00:03,465 --> 00:00:05,431
+Now that we have explained
+
+4
+00:00:05,431 --> 00:00:08,264
+how a two-bit adder works,
+
+5
+00:00:09,130 --> 00:00:12,896
+let's take the first step in reality.
+
+6
+00:00:13,595 --> 00:00:15,262
+But back to the video for a moment.
+
+7
+00:00:15,262 --> 00:00:19,360
+What we see is the AND gate.
+
+8
+00:00:19,360 --> 00:00:23,626
+On the right we see the input A and B, where we can put numbers.
+
+9
+00:00:23,892 --> 00:00:26,325
+Any number can be zero or one.
+
+10
+00:00:26,325 --> 00:00:29,024
+In the middle is the coupling sheet in blue
+
+11
+00:00:29,791 --> 00:00:31,390
+that defines the logic.
+
+12
+00:00:31,390 --> 00:00:35,989
+And on the left we have the clock sheet at the top, where the impulse comes,
+
+13
+00:00:36,755 --> 00:00:41,754
+and the output sheet at the bottom, where we then see the result
+
+14
+00:00:41,754 --> 00:00:44,086
+of the operation - the AND operation.
+
+15
+00:00:44,086 --> 00:00:46,619
+And here below, well known:
+
+16
+00:00:46,952 --> 00:00:50,051
+The truth table of the AND operation,
+
+17
+00:00:50,818 --> 00:00:53,050
+where you can basically see:
+
+18
+00:00:53,050 --> 00:00:54,017
+0 and 1 makes 0
+
+19
+00:00:54,017 --> 00:00:55,183
+0 and 1 makes 0
+
+20
+00:00:55,183 --> 00:00:56,383
+1 and 0 makes 0
+
+21
+00:00:56,582 --> 00:00:59,148
+and 1 and 1 makes 1.
+
+22
+00:00:59,815 --> 00:01:05,080
+And now we have moved to the next step and we now see the gates here.
+
+23
+00:01:05,380 --> 00:01:09,645
+The blue one is what we're looking at today, the AND gate.
+
+24
+00:01:09,645 --> 00:01:13,811
+And let's briefly demonstrate how it works.
+
+25
+00:01:15,910 --> 00:01:18,443
+So, now let's do it in parallel.
+
+26
+00:01:18,842 --> 00:01:21,042
+We'll show it shortly in front of...
+
+27
+00:01:21,042 --> 00:01:24,607
+In front of the picture here or here.
+
+28
+00:01:24,607 --> 00:01:30,239
+We now see two input sheets that protrude on the right.
+
+29
+00:01:30,239 --> 00:01:33,571
+If they're rightmost, it's zero when you slide it in...
+
+30
+00:01:34,404 --> 00:01:38,803
+If you slide one in, for example, that's the A now, it would be one.
+
+31
+00:01:40,003 --> 00:01:43,768
+But if you push the B in, then we have one for the B, exactly!
+
+32
+00:01:44,068 --> 00:01:46,701
+Then we have at the top, we have the impulse sheet,
+
+33
+00:01:47,500 --> 00:01:50,533
+where the clock comes in, and at the bottom we have the output sheet.
+
+34
+00:01:52,032 --> 00:01:52,632
+Exactly!
+
+35
+00:01:52,632 --> 00:01:57,131
+And now let's check the truth table to see if theory
+
+36
+00:01:57,731 --> 00:02:00,197
+agrees with reality.
+
+37
+00:02:00,696 --> 00:02:03,662
+So let's start with zero and zero...
+
+38
+00:02:04,895 --> 00:02:07,261
+makes the zero!
+
+39
+00:02:07,261 --> 00:02:09,327
+Zero and one...
+
+40
+00:02:09,327 --> 00:02:11,360
+makes zero!
+
+41
+00:02:13,992 --> 00:02:15,559
+One and zero...
+
+42
+00:02:15,559 --> 00:02:17,092
+equals zero!
+
+43
+00:02:17,325 --> 00:02:21,790
+And now comes one and one, makes one!
+
+44
+00:02:21,790 --> 00:02:23,156
+Perfect, works!
+
+45
+00:02:23,156 --> 00:02:26,355
+So, now...
+
+46
+00:02:27,388 --> 00:02:29,554
+we show the steps
+
+47
+00:02:29,554 --> 00:02:32,420
+how we got to this...
+
+48
+00:02:32,420 --> 00:02:35,253
+beautiful end result.
+
+49
+00:02:35,253 --> 00:02:40,218
+We used software from Siemens for this.
+
+50
+00:02:40,684 --> 00:02:44,383
+And we now see a half-finished
+
+51
+00:02:44,383 --> 00:02:47,083
+AND gate here, where two sheets are still missing.
+
+52
+00:02:47,249 --> 00:02:50,548
+We have one of the two input sheets on the right.
+
+53
+00:02:50,548 --> 00:02:56,113
+We have the clock sheet at the top and the output sheet is still missing at the bottom.
+
+54
+00:02:56,813 --> 00:03:00,578
+We then parameterized it nicely and prepared it in advance
+
+55
+00:03:00,778 --> 00:03:06,477
+so that the models can then be printed in different scales.
+
+56
+00:03:06,477 --> 00:03:08,176
+It's like a model railway,
+
+57
+00:03:08,176 --> 00:03:10,142
+there's H0 and there's N scale.
+
+58
+00:03:10,142 --> 00:03:13,675
+And then we want to be able to make different sizes,
+
+59
+00:03:13,675 --> 00:03:16,607
+depending on the application we need it for.
+
+60
+00:03:16,607 --> 00:03:18,306
+And here we can now, for example...
+
+61
+00:03:19,606 --> 00:03:22,372
+turn the parameter "Screw" in particular,
+
+62
+00:03:23,072 --> 00:03:26,171
+i.e. for the screw, namely the diameter of the screw,
+
+63
+00:03:26,171 --> 00:03:28,170
+we now have five millimeters here.
+
+64
+00:03:28,170 --> 00:03:31,436
+And we can now, for example, double that to ten...
+
+65
+00:03:31,436 --> 00:03:34,735
+and then the model is also scaled at the same time here!
+
+66
+00:03:35,135 --> 00:03:38,567
+And then there is a standard format that is used there.
+
+67
+00:03:38,934 --> 00:03:41,300
+In our case, that's... What did we take?
+
+68
+00:03:42,599 --> 00:03:44,465
+3MF, all right!
+
+69
+00:03:44,465 --> 00:03:50,130
+And then the whole thing is imported into another program
+
+70
+00:03:50,130 --> 00:03:53,729
+that is then used for the 3D printer.
+
+71
+00:03:53,729 --> 00:03:56,895
+And then you can already see this part...
+
+72
+00:03:58,828 --> 00:04:00,260
+in the new program.
+
+73
+00:04:00,260 --> 00:04:02,560
+Looks almost the same!
+
+74
+00:04:02,993 --> 00:04:04,792
+And this is going to be here now...
+
+75
+00:04:05,092 --> 00:04:06,892
+This has special features
+
+76
+00:04:06,892 --> 00:04:10,657
+that are needed to actually 3D print this.
+
+77
+00:04:10,691 --> 00:04:15,922
+Now you had to turn that first, because here this...
+
+78
+00:04:17,122 --> 00:04:20,021
+This bridge (overhang), it was up before
+
+79
+00:04:20,021 --> 00:04:23,420
+and the 3D printer can't do that because it can only print 45 degrees.
+
+80
+00:04:23,420 --> 00:04:26,119
+So you have to turn it once, because then it's on a plate, and
+
+81
+00:04:26,119 --> 00:04:27,652
+we'll see it right away.
+
+82
+00:04:27,652 --> 00:04:28,652
+And...
+
+83
+00:04:29,652 --> 00:04:31,551
+What else do we have to do?
+
+84
+00:04:31,551 --> 00:04:32,884
+We had to rotate it...
+
+85
+00:04:32,884 --> 00:04:35,916
+Oh yes, then we duplicated these parts
+
+86
+00:04:36,183 --> 00:04:36,883
+because in the model
+
+87
+00:04:36,883 --> 00:04:41,648
+that we just saw earlier, we basically only had one input sheet.
+
+88
+00:04:41,648 --> 00:04:45,780
+And we only had the clock sheet and not the output sheet...
+
+89
+00:04:46,080 --> 00:04:48,413
+And that's why it was duplicated again!
+
+90
+00:04:48,946 --> 00:04:51,145
+And now you can see it in a different way.
+
+91
+00:04:51,145 --> 00:04:53,278
+Now you can see the different layers.
+
+92
+00:04:53,278 --> 00:04:56,377
+These wavy lines, that's the filling (infill), I think that's what it's called.
+
+93
+00:04:56,377 --> 00:04:58,810
+You could print that solidly, that is, completely.
+
+94
+00:04:59,109 --> 00:05:02,109
+But in order to save material and make it lighter,
+
+95
+00:05:02,109 --> 00:05:06,274
+some structures are printed that are responsible for stability.
+
+96
+00:05:06,541 --> 00:05:09,740
+And now you can go down here and then
+
+97
+00:05:10,006 --> 00:05:15,205
+see the different layers that the 3D printer then builds up accordingly from bottom to top.
+
+98
+00:05:15,604 --> 00:05:17,904
+This is now the bottom layer.
+
+99
+00:05:18,837 --> 00:05:21,236
+And then prints it from bottom to top.
+
+100
+00:05:21,636 --> 00:05:25,068
+It's going to take like half an hour, a good half hour,
+
+101
+00:05:25,635 --> 00:05:28,367
+36 minutes until it's finished.
+
+102
+00:05:28,367 --> 00:05:29,567
+What else we see here...
+
+103
+00:05:29,567 --> 00:05:35,165
+This is a built-in camera, where you can follow the printing process live.
+
+104
+00:05:36,332 --> 00:05:38,364
+So now let's go over to the 3D printer.
+
+105
+00:05:38,631 --> 00:05:41,463
+This is a homegrown 3D printer.
+
+106
+00:05:42,163 --> 00:05:45,529
+And what particularly fascinated me was, what I hadn't seen at first.
+
+107
+00:05:46,029 --> 00:05:50,861
+Some of it was already generated by a 3D printer.
+
+108
+00:05:50,861 --> 00:05:53,526
+So this print head, which we see here, has already been
+
+109
+00:05:53,960 --> 00:05:57,192
+printed out in large parts by another 3D printer.
+
+110
+00:05:57,858 --> 00:06:01,391
+Very briefly to the function: We have a plate down here
+
+111
+00:06:01,391 --> 00:06:03,423
+that is a bit heated.
+
+112
+00:06:03,423 --> 00:06:07,822
+Then here, of course, is the print head, where this material is
+
+113
+00:06:08,455 --> 00:06:10,555
+fed in or drawn in from above.
+
+114
+00:06:10,888 --> 00:06:15,853
+The upper part is called the extruder, because the material is pressed in here.
+
+115
+00:06:15,853 --> 00:06:19,719
+And there's a device downstairs where this is heated to make it liquid.
+
+116
+00:06:19,918 --> 00:06:22,384
+And then it can be applied here.
+
+117
+00:06:22,384 --> 00:06:28,716
+And you can now control this print head here in different directions, XY...
+
+118
+00:06:28,716 --> 00:06:33,881
+And the Z direction for the height, we then have that through the printing plate.
+
+119
+00:06:34,048 --> 00:06:37,480
+And then we just want to start the process now...
+
+120
+00:06:40,212 --> 00:06:41,878
+Then it starts...
+
+121
+00:06:53,142 --> 00:06:55,441
+So, now the printing plate moves up first...
+
+122
+00:06:56,008 --> 00:07:02,172
+And then we use a pin like this to measure exactly how...
+
+123
+00:07:04,038 --> 00:07:07,171
+how high the printing plate is in different places.
+
+124
+00:07:07,771 --> 00:07:10,570
+The bright, transparent pin... yes, you can see it!
+
+125
+00:07:12,003 --> 00:07:15,835
+And now it's first measuring the topology of the plate,
+
+126
+00:07:18,368 --> 00:07:21,866
+because it seems to be very important that the first...
+
+127
+00:07:22,333 --> 00:07:25,999
+that the first area is printed cleanly, otherwise it won't work!
+
+128
+00:07:25,999 --> 00:07:29,031
+Ah yes, and now he's starting
+
+129
+00:07:29,031 --> 00:07:31,863
+to do some contours here.
+
+130
+00:07:36,229 --> 00:07:38,195
+And you can already see...
+
+131
+00:07:39,228 --> 00:07:41,027
+You can already see...
+
+132
+00:07:45,026 --> 00:07:46,659
+holes!
+
+133
+00:07:50,458 --> 00:07:51,924
+We print in blue.
+
+134
+00:07:53,090 --> 00:07:56,489
+For the end result, we also wanted to...
+
+135
+00:07:57,789 --> 00:08:00,088
+print the corresponding colors at some point,
+
+136
+00:08:00,088 --> 00:08:04,320
+but the material is just missing.
+
+137
+00:08:15,550 --> 00:08:22,082
+So the first layer is printed slower so it's quite clean.
+
+138
+00:08:22,082 --> 00:08:24,114
+And later it gives it a little more gas.
+
+139
+00:08:24,881 --> 00:08:27,547
+It's like the foundation, the foundation simply has to fit!
+
+140
+00:08:28,446 --> 00:08:30,246
+Otherwise the whole house is useless!
+
+141
+00:08:30,246 --> 00:08:33,612
+If it's not right below, then it won't work!
+
+142
+00:08:40,543 --> 00:08:42,009
+So, we now have here...
+
+143
+00:08:43,309 --> 00:08:44,808
+input sheet...
+
+144
+00:08:45,808 --> 00:08:47,574
+output sheet...
+
+145
+00:08:47,741 --> 00:08:49,473
+clock sheet...
+
+146
+00:08:49,640 --> 00:08:52,539
+Then comes the second input sheet...
+
+147
+00:08:52,739 --> 00:08:55,472
+So we have four of the same kind, more or less.
+
+148
+00:08:56,205 --> 00:09:00,437
+Oh, by the way, what we forgot in the explanation earlier was the...
+
+149
+00:09:01,803 --> 00:09:07,301
+What is of course also necessary in addition to the sheets is the cage,
+
+150
+00:09:07,301 --> 00:09:10,867
+where we pack the whole thing, i.e. the housing for the...
+
+151
+00:09:12,466 --> 00:09:14,333
+switching element.
+
+152
+00:09:15,999 --> 00:09:18,931
+The question that is on my mind right now is:
+
+153
+00:09:19,631 --> 00:09:22,663
+where is the logic sheet or where is the coupling sheet?
+
+154
+00:09:22,663 --> 00:09:24,196
+That would have to come sometime later.
+
+155
+00:09:24,463 --> 00:09:26,496
+Ah yes, here it comes!
+
+156
+00:09:26,596 --> 00:09:28,628
+(Michael laughs)
+
+157
+00:09:29,495 --> 00:09:32,727
+Now comes the coupling sheet of the AND operation.
+
+158
+00:09:33,993 --> 00:09:39,325
+It's kept relatively simple with these two L-cutouts.
+
+159
+00:09:44,524 --> 00:09:49,222
+As a prototype, we didn't make these L-cutouts
+
+160
+00:09:49,855 --> 00:09:52,354
+completely symmetrical,
+
+161
+00:09:53,754 --> 00:09:56,287
+but slightly asymmetrical, so that...
+
+162
+00:09:57,820 --> 00:09:59,052
+if
+
+163
+00:10:00,252 --> 00:10:02,851
+the zero was... not quite correctly entered...
+
+164
+00:10:03,451 --> 00:10:05,884
+the result would still be zero!
+
+165
+00:10:09,883 --> 00:10:13,282
+We have a fan down here.
+
+166
+00:10:13,581 --> 00:10:16,514
+You can see him a bit here now.
+
+167
+00:10:17,647 --> 00:10:21,912
+It turns, this round part over there. Now you can see it a bit...
+
+168
+00:10:22,179 --> 00:10:26,211
+It ensures that the material cools down
+
+169
+00:10:27,344 --> 00:10:32,876
+so that it doesn't melt at the bottom. It has to solidify relatively quickly!
+
+170
+00:10:33,709 --> 00:10:35,908
+Here we have the filament, it's called it.
+
+171
+00:10:35,908 --> 00:10:41,640
+It's the material that's wound up in a roll like this.
+
+172
+00:10:41,640 --> 00:10:43,706
+And then is feeded from the extruder...
+
+173
+00:10:44,572 --> 00:10:47,405
+into the print head.
+
+174
+00:10:47,405 --> 00:10:49,737
+And below...
+
+175
+00:10:49,737 --> 00:10:52,503
+there's the part that's being heated.
+
+176
+00:10:53,170 --> 00:10:59,967
+And that's called "Hotend", where the material is then liquefied.
+
+177
+00:11:00,501 --> 00:11:05,299
+(Music plays)
+
+178
+00:15:01,561 --> 00:15:16,324
+And done!
+
