@@ -88,7 +88,7 @@ Log
 03:08 WORD	N (Spurweite)
 		EN: N scale
 		LINK: https://de.wikipedia.org/wiki/Nenngr%C3%B6%C3%9Fe_N
-03:35 TOC2	Austauschformat 3MF (3D Manufacturing Format) 
+03:35 TOC2	Austauschformat 3MF (3D Manufacturing Format)
 		LINK: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
 03:34 TOC2	Import des Modells in "Ultimaker Cura" Slicer Software
 03:42 WORD	3MF (3D Manufacturing Format)

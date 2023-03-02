@@ -42,7 +42,7 @@
 | **[03:08](https://youtu.be/bIub0Jag5nQ?t=3m8s)**| **WORD**| **N (Spurweite)**|
  ||EN |N scale |
  ||LINK |[https://de.wikipedia.org/wiki/Nenngr%C3%B6%C3%9Fe_N](https://de.wikipedia.org/wiki/Nenngr%C3%B6%C3%9Fe_N) |
-| **[03:35](https://youtu.be/bIub0Jag5nQ?t=3m35s)**| **TOC2**| **Austauschformat 3MF (3D Manufacturing Format) **|
+| **[03:35](https://youtu.be/bIub0Jag5nQ?t=3m35s)**| **TOC2**| **Austauschformat 3MF (3D Manufacturing Format)**|
  ||LINK |[https://en.wikipedia.org/wiki/3D_Manufacturing_Format](https://en.wikipedia.org/wiki/3D_Manufacturing_Format) |
 | **[03:34](https://youtu.be/bIub0Jag5nQ?t=3m34s)**| **TOC2**| **Import des Modells in "Ultimaker Cura" Slicer Software**|
 | **[03:42](https://youtu.be/bIub0Jag5nQ?t=3m42s)**| **WORD**| **3MF (3D Manufacturing Format)**|
