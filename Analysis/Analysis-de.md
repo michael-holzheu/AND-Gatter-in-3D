@@ -91,8 +91,8 @@
  ||LINK |[https://www.simplify3d.com/resources/articles/beginners-guide-to-auto-bed-leveling](https://www.simplify3d.com/resources/articles/beginners-guide-to-auto-bed-leveling) |
 | **[07:18](https://youtu.be/bIub0Jag5nQ?t=7m18s)**| **CLAIM**| **Es ist besonders wichtig, dass die erste Schicht korrekt aufgetragen wird**|
 | **[07:25](https://youtu.be/bIub0Jag5nQ?t=7m25s)**| **TOC2**| **Die erste Schicht wird gedruckt**|
-| **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **BUG**| **Smartphonekamera OP7 zeigt Rolling-Shutter-Effekt (auch Wobble- oder Jello-Effekt)**|
-| **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **WORD**| **Rolling-Shutter-Effekt**|
+| **[07:25](https://youtu.be/bIub0Jag5nQ?t=7m25s)**| **BUG**| **Smartphonekamera OP7 zeigt Rolling-Shutter-Effekt (auch Wobble- oder Jello-Effekt)**|
+| **[07:25](https://youtu.be/bIub0Jag5nQ?t=7m25s)**| **WORD**| **Rolling-Shutter-Effekt**|
  ||LINK |[https://en.wikipedia.org/wiki/Rolling_shutter](https://en.wikipedia.org/wiki/Rolling_shutter) |
  ||LINK |[https://walkera-fans.de/rolling-shutter-effekt-und-jello-ursachen-und-loesungsmoeglichkeiten](https://walkera-fans.de/rolling-shutter-effekt-und-jello-ursachen-und-loesungsmoeglichkeiten) |
 | **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **QUESTION**| **Welchen Effekt sehen wir hier genau?**|
