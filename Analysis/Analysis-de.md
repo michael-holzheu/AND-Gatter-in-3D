@@ -94,6 +94,7 @@
 | **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **BUG**| **Smartphonekamera OP7 zeigt Rolling-Shutter-Effekt (auch Wobble- oder Jello-Effekt)**|
 | **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **WORD**| **Rolling-Shutter-Effekt**|
  ||LINK |[https://en.wikipedia.org/wiki/Rolling_shutter](https://en.wikipedia.org/wiki/Rolling_shutter) |
+ ||LINK |[https://walkera-fans.de/rolling-shutter-effekt-und-jello-ursachen-und-loesungsmoeglichkeiten](https://walkera-fans.de/rolling-shutter-effekt-und-jello-ursachen-und-loesungsmoeglichkeiten) |
 | **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **QUESTION**| **Welchen Effekt sehen wir hier genau?**|
 | **[08:15](https://youtu.be/bIub0Jag5nQ?t=8m15s)**| **CLAIM**| **Die erste Schicht wird langsamer gedruckt**|
 | **[08:22](https://youtu.be/bIub0Jag5nQ?t=8m22s)**| **SAYING**| **Gas geben**|
