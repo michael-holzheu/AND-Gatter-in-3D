@@ -168,6 +168,7 @@ Log
 		LINK: https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Filament_lat_filamentum_Fadenwerk
 10:48 TOC2	Der Aufbau des Hotends
 10:48 WORD	Hotend
+10:47 QUESTION	What is the difference between printer head and hotend?
 10:48 ATTRIBUTE PICTURE: Hotend Diagramm
 		LINK: https://threedom.de/3d-drucker-hotend
 11:00 ATTRIBUTE	MUSIC: Relaxing Piano Improvisation by Alexander Nakarada

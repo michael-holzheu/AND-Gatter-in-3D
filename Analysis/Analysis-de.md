@@ -121,6 +121,7 @@
  ||LINK |[https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Filament_lat_filamentum_Fadenwerk](https://makerteam.de/blog/3d-druck-glossar-fachbegriffe-fuer-anfaenger-erklaert-3d-wiki/#Filament_lat_filamentum_Fadenwerk) |
 | **[10:48](https://youtu.be/bIub0Jag5nQ?t=10m48s)**| **TOC2**| **Der Aufbau des Hotends**|
 | **[10:48](https://youtu.be/bIub0Jag5nQ?t=10m48s)**| **WORD**| **Hotend**|
+| **[10:47](https://youtu.be/bIub0Jag5nQ?t=10m47s)**| **QUESTION**| **What is the difference between printer head and hotend?**|
 | **[10:48](https://youtu.be/bIub0Jag5nQ?t=10m48s)**| **ATTRIBUTE**| **PICTURE: Hotend Diagramm**|
  ||LINK |[https://threedom.de/3d-drucker-hotend](https://threedom.de/3d-drucker-hotend) |
 | **[11:00](https://youtu.be/bIub0Jag5nQ?t=11m0s)**| **ATTRIBUTE**| **MUSIC: Relaxing Piano Improvisation by Alexander Nakarada**|
