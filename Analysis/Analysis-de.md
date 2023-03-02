@@ -91,6 +91,10 @@
  ||LINK |[https://www.simplify3d.com/resources/articles/beginners-guide-to-auto-bed-leveling](https://www.simplify3d.com/resources/articles/beginners-guide-to-auto-bed-leveling) |
 | **[07:18](https://youtu.be/bIub0Jag5nQ?t=7m18s)**| **CLAIM**| **Es ist besonders wichtig, dass die erste Schicht korrekt aufgetragen wird**|
 | **[07:25](https://youtu.be/bIub0Jag5nQ?t=7m25s)**| **TOC2**| **Die erste Schicht wird gedruckt**|
+| **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **BUG**| **Smartphonekamera OP7 zeigt Rolling-Shutter-Effekt (auch Wobble- oder Jello-Effekt)**|
+| **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **WORD**| **Rolling-Shutter-Effekt**|
+ ||LINK |[https://en.wikipedia.org/wiki/Rolling_shutter](https://en.wikipedia.org/wiki/Rolling_shutter) |
+| **[07:30](https://youtu.be/bIub0Jag5nQ?t=7m30s)**| **QUESTION**| **Welchen Effekt sehen wir hier genau?**|
 | **[08:15](https://youtu.be/bIub0Jag5nQ?t=8m15s)**| **CLAIM**| **Die erste Schicht wird langsamer gedruckt**|
 | **[08:22](https://youtu.be/bIub0Jag5nQ?t=8m22s)**| **SAYING**| **Gas geben**|
  ||EN |To give gas |

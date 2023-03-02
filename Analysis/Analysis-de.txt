@@ -137,6 +137,10 @@ Log
 		LINK: https://www.simplify3d.com/resources/articles/beginners-guide-to-auto-bed-leveling
 07:18 CLAIM	Es ist besonders wichtig, dass die erste Schicht korrekt aufgetragen wird
 07:25 TOC2	Die erste Schicht wird gedruckt
+07:30 BUG	Smartphonekamera OP7 zeigt Rolling-Shutter-Effekt (auch Wobble- oder Jello-Effekt)
+07:30 WORD	Rolling-Shutter-Effekt
+		LINK: https://en.wikipedia.org/wiki/Rolling_shutter
+07:30 QUESTION	Welchen Effekt sehen wir hier genau?
 08:15 CLAIM	Die erste Schicht wird langsamer gedruckt
 08:22 SAYING	Gas geben
 		EN: To give gas
