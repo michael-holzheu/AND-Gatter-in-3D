@@ -1,0 +1,3 @@
+După ce am descris teoretic modelul de sumator al lui Konrad Zuse, trecem acum la realizarea fizică în 3D.
+
+Prin urmare, astăzi vom arăta cum poarta AND, pe care am proiectat-o într-un program CAD, este "materializată" cu ajutorul unei imprimante 3D.

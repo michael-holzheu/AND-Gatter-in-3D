@@ -1,0 +1,3 @@
+Después de haber descrito teóricamente el modelo de sumador de Konrad Zuse, pasamos ahora a la realización física en 3D.
+
+Por lo tanto, hoy mostraremos cómo se "materializa" la puerta AND, que hemos diseñado en un programa CAD, con la ayuda de una impresora 3D.

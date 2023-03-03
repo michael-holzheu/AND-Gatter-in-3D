@@ -1,0 +1,712 @@
+1
+00:00:01,066 --> 00:00:01,699
+Al treilea!
+
+2
+00:00:01,699 --> 00:00:02,332
+(Christoph bate din palme)
+
+3
+00:00:03,465 --> 00:00:05,431
+Acum că am explicat
+
+4
+00:00:05,431 --> 00:00:08,264
+cum funcționează un sumator pe doi biți,
+
+5
+00:00:09,130 --> 00:00:12,896
+să facem primul pas în realitate.
+
+6
+00:00:13,595 --> 00:00:15,262
+Dar să revenim la videoclip pentru o clipă.
+
+7
+00:00:15,262 --> 00:00:19,360
+Ceea ce vedem este poarta SI.
+
+8
+00:00:19,360 --> 00:00:23,626
+În dreapta vedem intrarea A și B, unde putem pune numere.
+
+9
+00:00:23,892 --> 00:00:26,325
+Orice număr poate fi zero sau unu.
+
+10
+00:00:26,325 --> 00:00:29,024
+În mijloc se află placa de cuplare în albastru
+
+11
+00:00:29,791 --> 00:00:31,390
+care definește logica.
+
+12
+00:00:31,390 --> 00:00:35,989
+Și în stânga avem placa ceasului în partea de sus, de unde vine impulsul,
+
+13
+00:00:36,755 --> 00:00:41,754
+și placa de ieșire în jos, unde vedem apoi rezultatul
+
+14
+00:00:41,754 --> 00:00:44,086
+operației - operația AND.
+
+15
+00:00:44,086 --> 00:00:46,619
+Și aici mai jos, binecunoscut:
+
+16
+00:00:46,952 --> 00:00:50,051
+Tabelul de adevăr al operației AND,
+
+17
+00:00:50,818 --> 00:00:53,050
+unde, practic, puteți vedea:
+
+18
+00:00:53,050 --> 00:00:54,017
+0 și 1 fac 0
+
+19
+00:00:54,017 --> 00:00:55,183
+0 și 1 face 0
+
+20
+00:00:55,183 --> 00:00:56,383
+1 și 0 face 0
+
+21
+00:00:56,582 --> 00:00:59,148
+și 1 și 1 face 1.
+
+22
+00:00:59,815 --> 00:01:05,080
+Și acum am trecut la pasul următor și acum vedem porțile aici.
+
+23
+00:01:05,380 --> 00:01:09,645
+Cel albastru este ceea ce ne uităm astăzi, poarta SI.
+
+24
+00:01:09,645 --> 00:01:13,811
+Și să demonstrăm pe scurt cum funcționează.
+
+25
+00:01:15,910 --> 00:01:18,443
+Deci, acum să o facem în paralel.
+
+26
+00:01:18,842 --> 00:01:21,042
+O vom arăta cu puțin timp înainte...
+
+27
+00:01:21,042 --> 00:01:24,607
+În fața imaginii aici sau aici.
+
+28
+00:01:24,607 --> 00:01:30,239
+Vedem acum două plăci de intrare care ies în afară în dreapta.
+
+29
+00:01:30,239 --> 00:01:33,571
+Dacă au cea mai dreaptă, este zero când glisați înăuntru...
+
+30
+00:01:34,404 --> 00:01:38,803
+Dacă introduceți unul înăuntru, de exemplu, acesta este A acum, ar fi unul.
+
+31
+00:01:40,003 --> 00:01:43,768
+Dar dacă împingi B înăuntru, atunci avem unul pentru B, exact!
+
+32
+00:01:44,068 --> 00:01:46,701
+Apoi avem în partea de sus, avem placa de impuls,
+
+33
+00:01:47,500 --> 00:01:50,533
+unde intră ceasul, iar în partea de jos avem placa de ieșire.
+
+34
+00:01:52,032 --> 00:01:52,632
+Exact!
+
+35
+00:01:52,632 --> 00:01:57,131
+Și acum să verificăm tabelul de adevăr pentru a vedea dacă teoria
+
+36
+00:01:57,731 --> 00:02:00,197
+este de acord cu realitatea.
+
+37
+00:02:00,696 --> 00:02:03,662
+Deci, să începem cu zero și zero...
+
+38
+00:02:04,895 --> 00:02:07,261
+face zero!
+
+39
+00:02:07,261 --> 00:02:09,327
+Zero și unu...
+
+40
+00:02:09,327 --> 00:02:11,360
+egal cu zero!
+
+41
+00:02:13,992 --> 00:02:15,559
+Unu și zero...
+
+42
+00:02:15,559 --> 00:02:17,092
+egal cu zero!
+
+43
+00:02:17,325 --> 00:02:21,790
+Și acum vine unul și unul, face unul!
+
+44
+00:02:21,790 --> 00:02:23,156
+Perfect, funcționează!
+
+45
+00:02:23,156 --> 00:02:26,355
+Deci, acum...
+
+46
+00:02:27,388 --> 00:02:29,554
+haideți să arătăm pe scurt pașii
+
+47
+00:02:29,554 --> 00:02:32,420
+cum am ajuns la acest...
+
+48
+00:02:32,420 --> 00:02:35,253
+rezultat final frumos.
+
+49
+00:02:35,253 --> 00:02:40,218
+Am folosit software de la Siemens pentru asta.
+
+50
+00:02:40,684 --> 00:02:44,383
+Și acum vedem
+
+51
+00:02:44,383 --> 00:02:47,083
+aici o poartă ȘI pe jumătate finisată, de unde încă lipsesc două foi de metal.
+
+52
+00:02:47,249 --> 00:02:50,548
+Avem una dintre cele două foi de intrare în dreapta.
+
+53
+00:02:50,548 --> 00:02:56,113
+Avem placa ceasului în partea de sus și placa de ieșire încă lipsește în partea de jos.
+
+54
+00:02:56,813 --> 00:03:00,578
+Apoi l-am parametrizat frumos și l-am pregătit din timp
+
+55
+00:03:00,778 --> 00:03:06,477
+pentru ca modelele să poată fi apoi tipărite la scări diferite.
+
+56
+00:03:06,477 --> 00:03:08,176
+Este ca un model de cale ferată,
+
+57
+00:03:08,176 --> 00:03:10,142
+există H0 și există N.
+
+58
+00:03:10,142 --> 00:03:13,675
+Și apoi vrem să putem face diferite dimensiuni,
+
+59
+00:03:13,675 --> 00:03:16,607
+în funcție de aplicația pentru care avem nevoie.
+
+60
+00:03:16,607 --> 00:03:18,306
+Și aici putem acum, de exemplu...
+
+61
+00:03:19,606 --> 00:03:22,372
+să rotim parametrul „Șurub” în special
+
+62
+00:03:23,072 --> 00:03:26,171
+, adică pentru șurub, și anume diametrul șurubului,
+
+63
+00:03:26,171 --> 00:03:28,170
+acum avem cinci milimetri aici.
+
+64
+00:03:28,170 --> 00:03:31,436
+Și acum putem, de exemplu, dubla asta la zece...
+
+65
+00:03:31,436 --> 00:03:34,735
+și atunci și modelul este scalat în același timp aici!
+
+66
+00:03:35,135 --> 00:03:38,567
+Și apoi există un format standard care este folosit acolo.
+
+67
+00:03:38,934 --> 00:03:41,300
+În cazul nostru, asta e... Ce am luat?
+
+68
+00:03:42,599 --> 00:03:44,465
+3MF, bine!
+
+69
+00:03:44,465 --> 00:03:50,130
+Și apoi totul este importat într-un alt program
+
+70
+00:03:50,130 --> 00:03:53,729
+care este apoi folosit pentru imprimanta 3D.
+
+71
+00:03:53,729 --> 00:03:56,895
+Și apoi puteți vedea deja această parte...
+
+72
+00:03:58,828 --> 00:04:00,260
+în noul program.
+
+73
+00:04:00,260 --> 00:04:02,560
+Arata aproape la fel!
+
+74
+00:04:02,993 --> 00:04:04,792
+Și acesta va fi aici acum...
+
+75
+00:04:05,092 --> 00:04:06,892
+Acesta are caracteristici speciale
+
+76
+00:04:06,892 --> 00:04:10,657
+care sunt necesare pentru a imprima efectiv 3D.
+
+77
+00:04:10,691 --> 00:04:15,922
+Acum trebuia să o întorci mai întâi, pentru că aici asta...
+
+78
+00:04:17,122 --> 00:04:20,021
+Acest pod (surplontă), era sus înainte
+
+79
+00:04:20,021 --> 00:04:23,420
+și imprimanta 3D nu poate face asta pentru că poate imprima doar 45 de grade.
+
+80
+00:04:23,420 --> 00:04:26,119
+Așa că trebuie să îl întorci o dată, pentru că atunci este pe un record, și
+
+81
+00:04:26,119 --> 00:04:27,652
+îl vom vedea imediat.
+
+82
+00:04:27,652 --> 00:04:28,652
+Și...
+
+83
+00:04:29,652 --> 00:04:31,551
+Ce altceva trebuie să facem?
+
+84
+00:04:31,551 --> 00:04:32,884
+A trebuit să-l rotim...
+
+85
+00:04:32,884 --> 00:04:35,916
+Da, atunci am duplicat aceste piese
+
+86
+00:04:36,183 --> 00:04:36,883
+pentru că în modelul
+
+87
+00:04:36,883 --> 00:04:41,648
+pe care tocmai l-am văzut mai devreme aveam practic o singură placă de intrare.
+
+88
+00:04:41,648 --> 00:04:45,780
+Și aveam doar placa ceasului și nu placa de ieșire...
+
+89
+00:04:46,080 --> 00:04:48,413
+Și de aceea a fost duplicat din nou!
+
+90
+00:04:48,946 --> 00:04:51,145
+Și acum o poți vedea într-un mod diferit.
+
+91
+00:04:51,145 --> 00:04:53,278
+Apoi puteți vedea diferitele straturi.
+
+92
+00:04:53,278 --> 00:04:56,377
+Aceste linii ondulate, asta este umplutura (infill), cred că așa se numește.
+
+93
+00:04:56,377 --> 00:04:58,810
+Ai putea imprima asta solid, adică complet.
+
+94
+00:04:59,109 --> 00:05:02,109
+Dar pentru a economisi materialul și a-l face mai ușor,
+
+95
+00:05:02,109 --> 00:05:06,274
+sunt imprimate unele structuri care sunt responsabile de stabilitate.
+
+96
+00:05:06,541 --> 00:05:09,740
+Și acum puteți merge aici și apoi
+
+97
+00:05:10,006 --> 00:05:15,205
+puteți vedea diferitele straturi pe care imprimanta 3D le construiește în consecință de jos în sus.
+
+98
+00:05:15,604 --> 00:05:17,904
+Acesta este acum stratul de jos.
+
+99
+00:05:18,837 --> 00:05:21,236
+Și apoi îl imprimă de jos în sus.
+
+100
+00:05:21,636 --> 00:05:25,068
+Va dura aproximativ o jumătate de oră, o jumătate de oră bună,
+
+101
+00:05:25,635 --> 00:05:28,367
+36 de minute până se va termina.
+
+102
+00:05:28,367 --> 00:05:29,567
+Ce altceva vedem aici...
+
+103
+00:05:29,567 --> 00:05:35,165
+Aceasta este o cameră încorporată, unde puteți urmări procesul de imprimare în direct.
+
+104
+00:05:36,332 --> 00:05:38,364
+Deci acum să trecem la imprimanta 3D.
+
+105
+00:05:38,631 --> 00:05:41,463
+Aceasta este o imprimantă 3D de origine.
+
+106
+00:05:42,163 --> 00:05:45,529
+Și ceea ce m-a fascinat în mod deosebit a fost că nu l-am văzut la început.
+
+107
+00:05:46,029 --> 00:05:50,861
+O parte a fost deja generată de o imprimantă 3D.
+
+108
+00:05:50,861 --> 00:05:53,526
+Deci, acest cap de imprimare, pe care îl vedem aici, a fost deja
+
+109
+00:05:53,960 --> 00:05:57,192
+imprimat în părți mari de o altă imprimantă 3D.
+
+110
+00:05:57,858 --> 00:06:01,391
+Foarte pe scurt la funcție: avem o farfurie aici jos,
+
+111
+00:06:01,391 --> 00:06:03,423
+care este puțin încălzită.
+
+112
+00:06:03,423 --> 00:06:07,822
+Apoi, aici, desigur, este capul de imprimare, unde acest material este
+
+113
+00:06:08,455 --> 00:06:10,555
+alimentat sau atras de sus.
+
+114
+00:06:10,888 --> 00:06:15,853
+Partea superioară se numește extruder, deoarece materialul este presat aici.
+
+115
+00:06:15,853 --> 00:06:19,719
+Și există un dispozitiv la parter unde acesta este încălzit pentru a face lichid.
+
+116
+00:06:19,918 --> 00:06:22,384
+Și apoi poate fi aplicat aici.
+
+117
+00:06:22,384 --> 00:06:28,716
+Și acum puteți controla acest cap de imprimare aici în direcții diferite, XY...
+
+118
+00:06:28,716 --> 00:06:33,881
+Și direcția Z pentru înălțime, o avem apoi prin placa de imprimare.
+
+119
+00:06:34,048 --> 00:06:37,480
+Și apoi vrem doar să începem procesul acum...
+
+120
+00:06:40,212 --> 00:06:41,878
+Apoi începe...
+
+121
+00:06:53,142 --> 00:06:55,441
+Deci, acum placa de presiune se mișcă mai întâi în sus...
+
+122
+00:06:56,008 --> 00:07:02,172
+Și apoi folosim un stilou ca acesta pentru a măsura exact cât de...
+
+123
+00:07:04,038 --> 00:07:07,171
+cât de mare este presiunea farfuria este în locuri diferite.
+
+124
+00:07:07,771 --> 00:07:10,570
+Pixul luminos, transparent... da, se vede!
+
+125
+00:07:12,003 --> 00:07:15,835
+Și acum măsoară mai întâi topologia plăcii,
+
+126
+00:07:18,368 --> 00:07:21,866
+pentru că pare a fi foarte important ca prima...
+
+127
+00:07:22,333 --> 00:07:25,999
+ca prima zonă să fie imprimată curat, altfel nu va merge!
+
+128
+00:07:25,999 --> 00:07:29,031
+Ah da, și acum începe
+
+129
+00:07:29,031 --> 00:07:31,863
+să facă niște contururi aici.
+
+130
+00:07:36,229 --> 00:07:38,195
+Și deja vezi...
+
+131
+00:07:39,228 --> 00:07:41,027
+Deja vezi...
+
+132
+00:07:45,026 --> 00:07:46,659
+găuri!
+
+133
+00:07:50,458 --> 00:07:51,924
+Imprimăm în albastru.
+
+134
+00:07:53,090 --> 00:07:56,489
+Pentru rezultatul final, am vrut și noi să...
+
+135
+00:07:57,789 --> 00:08:00,088
+imprimăm culorile corespunzătoare la un moment dat,
+
+136
+00:08:00,088 --> 00:08:04,320
+dar pur și simplu lipsea materialul.
+
+137
+00:08:15,550 --> 00:08:22,082
+Deci primul strat este imprimat mai lent, așa că este destul de curat.
+
+138
+00:08:22,082 --> 00:08:24,114
+Și mai târziu îi mai dă puțin gaz.
+
+139
+00:08:24,881 --> 00:08:27,547
+Este ca fondul de ten, fondul de ten trebuie pur și simplu să se potrivească!
+
+140
+00:08:28,446 --> 00:08:30,246
+Altfel, toată casa este inutilă!
+
+141
+00:08:30,246 --> 00:08:33,612
+Dacă nu este chiar dedesubt, atunci nu va funcționa!
+
+142
+00:08:40,543 --> 00:08:42,009
+Deci, acum avem aici...
+
+143
+00:08:43,309 --> 00:08:44,808
+tava de intrare...
+
+144
+00:08:45,808 --> 00:08:47,574
+tava de ieșire...
+
+145
+00:08:47,741 --> 00:08:49,473
+tava de ceas...
+
+146
+00:08:49,640 --> 00:08:52,539
+Apoi vine a doua tavă de intrare...
+
+147
+00:08:52,739 --> 00:08:55,472
+Deci avem patru de același fel, mai mult sau mai puțin.
+
+148
+00:08:56,205 --> 00:09:00,437
+Apropo, ceea ce am uitat în explicația de mai devreme a fost...
+
+149
+00:09:01,803 --> 00:09:07,301
+Ceea ce este, desigur, necesar și pe lângă foile metalice este cușca,
+
+150
+00:09:07,301 --> 00:09:10,867
+în care ambalăm totul, adică carcasa pentru...
+
+151
+00:09:12,466 --> 00:09:14,333
+comutare . element.
+
+152
+00:09:15,999 --> 00:09:18,931
+Întrebarea care îmi vine în minte acum este:
+
+153
+00:09:19,631 --> 00:09:22,663
+unde este placa logică sau unde este placa de cuplare?
+
+154
+00:09:22,663 --> 00:09:24,196
+Asta ar trebui să vină ceva mai târziu.
+
+155
+00:09:24,463 --> 00:09:26,496
+Ah, da, aici vine!
+
+156
+00:09:26,596 --> 00:09:28,628
+(Michael râde)
+
+157
+00:09:29,495 --> 00:09:32,727
+Acum vine placa de cuplare a operațiunii AND.
+
+158
+00:09:33,993 --> 00:09:39,325
+Se păstrează relativ simplu cu aceste două decupaje în L.
+
+159
+00:09:44,524 --> 00:09:49,222
+Ca prototip, aceste decupaje în L nu le-am făcut
+
+160
+00:09:49,855 --> 00:09:52,354
+complet simetrice,
+
+161
+00:09:53,754 --> 00:09:56,287
+ci ușor asimetrice, astfel încât...
+
+162
+00:09:57,820 --> 00:09:59,052
+dacă
+
+163
+00:10:00,252 --> 00:10:02,851
+zero ar fi... nu prea corect introdus...
+
+164
+00:10:03,451 --> 00:10:05,884
+rezultatul ar fi tot zero!
+
+165
+00:10:09,883 --> 00:10:13,282
+Avem un ventilator aici jos.
+
+166
+00:10:13,581 --> 00:10:16,514
+Îl poți vedea puțin aici acum.
+
+167
+00:10:17,647 --> 00:10:21,912
+Se întoarce, această parte rotundă de acolo. Acum se vede un pic...
+
+168
+00:10:22,179 --> 00:10:26,211
+Asigură că materialul se răcește
+
+169
+00:10:27,344 --> 00:10:32,876
+pentru a nu se topi la fund. Trebuie rezolvat relativ repede!
+
+170
+00:10:33,709 --> 00:10:35,908
+Aici avem filamentul, se numește,
+
+171
+00:10:35,908 --> 00:10:41,640
+este materialul care este înfășurat într-o rolă ca aceasta.
+
+172
+00:10:41,640 --> 00:10:43,706
+Și apoi de la extruder...
+
+173
+00:10:44,572 --> 00:10:47,405
+în capul de imprimare.
+
+174
+00:10:47,405 --> 00:10:49,737
+Și mai jos...
+
+175
+00:10:49,737 --> 00:10:52,503
+este partea care se încălzește.
+
+176
+00:10:53,170 --> 00:10:59,967
+Și asta se numește „Hotend”, unde materialul este apoi lichefiat.
+
+177
+00:11:00,501 --> 00:11:05,299
+(se aude muzica)
+
+178
+00:15:01,561 --> 00:15:16,324
+Și gata!
+

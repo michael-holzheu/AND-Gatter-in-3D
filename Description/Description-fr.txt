@@ -1,0 +1,3 @@
+Après avoir décrit théoriquement le modèle d'addition de Konrad Zuse, nous nous attaquons maintenant à sa réalisation physique en 3D.
+
+C'est pourquoi nous montrons aujourd'hui comment la porte AND, que nous avons conçue dans un programme de CAO, est "matérialisée" à l'aide d'une imprimante 3D.
